@@ -1,0 +1,11 @@
+@media (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
+  #nav-bar{
+   display:flex;
+   justify-content: space-between;
+  }
+  
