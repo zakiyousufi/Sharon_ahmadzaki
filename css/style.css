@@ -1,11 +1,13 @@
-@media (max-width: 600px) {
-    body {
-      background-color: lightblue;
-    }
-  }
 
   #nav-bar{
-   display:flex;
-   justify-content: space-between;
-  }
-  
+    position: fixed;
+    top: 0;
+    left: 0;
+    display:flex;
+}
+@media (mix-width: 300px){
+    p{
+        color:orange;
+    }
+}
+
